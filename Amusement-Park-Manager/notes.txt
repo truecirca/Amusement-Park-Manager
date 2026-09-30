@@ -1,0 +1,12 @@
+-Started project and created the txt document
+-Created initial parts of the Ride class and commited to repository
+-Finished initial Ride class creation and moving on to testing
+-Finished first test cases for Ride class
+-Finished amusement park class and test cases, moving on to additional features
+-Added more functionality to each class and added more test cases
+-Finished AmusementPark class for part one minus flushing out the toString due to current confusion on instructions
+--Sucessfully completed part one--
+__________________________________________________________________________________________________________________________________________________________________________
+--Sucessfully completed part two--
+__________________________________________________________________________________________________________________________________________________________________________
+--Sucessfully completed part three--
